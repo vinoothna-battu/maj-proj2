@@ -163,7 +163,7 @@
     display: flex;
  }
  .img1{
-    margin-left: 90px;
+    
     width: 456px;
     height: 507px;
     gap: 0px;
@@ -178,7 +178,7 @@
     border-radius: 20px 20px 20px 20px;
     border: 6px 0px 0px 0px;
     background: #E5D8FF;
-    margin-left: 90px;
+   
 
 
  }
@@ -433,7 +433,7 @@ h2{
 .fixed-icon{
     position: fixed;
     
-    right:560px;
+    right:60px;
     z-index:1000;
     top: 930px;
     left: 1806px;
@@ -459,6 +459,7 @@ opacity: 0px;
 background: rgba(0, 0, 0, 1);
 margin-top: 220px;
 margin-left: 870px;
+
 }
 .next{
     border: none;
@@ -485,7 +486,7 @@ margin-top: 20px;}
     margin-top:402px;
     position: sticky;
     top:120px;
-    margin-right: 30px;
+   
 }
 .social_logo{
     position: sticky;
